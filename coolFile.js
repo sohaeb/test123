@@ -1,7 +1,6 @@
 test 123
 test
 hmm
-wew
 <<<<<<< HEAD
 later
 ||||||| merged common ancestors
