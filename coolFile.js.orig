@@ -1,4 +1,5 @@
 test 123
+
 test
 hmm
 wew
@@ -10,4 +11,12 @@ now
 >>>>>>> c803d5f3b3e1a74930cb587a145398ecae159f22
 now added
 2:27
+<<<<<<< HEAD
 2:33
+||||||| merged common ancestors
+=======
+2:33New
+asdjlnaskjdbnaskjdb
+jasbdkasb
+>>>>>>> 9e5199625627fd8bd4a7a670e32882e54baa08a8
+2:38
