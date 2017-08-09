@@ -6,5 +6,10 @@
 7_git
 8_git
 9_rebase_git
+<<<<<<< HEAD
 10_testing
 11_testing
+||||||| merged common ancestors
+=======
+10_git_rebase
+>>>>>>> c8e508339c39bda5437d4be9812ae25376d51db8
